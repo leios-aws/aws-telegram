@@ -14,7 +14,7 @@
     "aws-sdk": "^2.496.0",
     "comma-number": "^2.0.1",
     "config": "^3.2.2",
-    "luxon": "^1.17.2",
+    "luxon": "^1.28.1",
     "request": "^2.88.0",
     "rss-parser": "^3.9.0"
   }
